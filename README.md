@@ -1,16 +1,16 @@
-## Hi there 👋
+ # Hi, I'm Sawan 👋
 
-<!--
-**sawan-ade/sawan-ade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Machine Learning & Blockchain Developer  
+🚀 Currently building ML projects and exploring Solana smart contracts  
+💡 Interests: AI, Cryptography, Decentralized Apps  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sawan-ade-330997242/) | 📂 Portfolio: Coming soon
 
-Here are some ideas to get you started:
+### ⚒️ Tech Stack
+- Python, scikit-learn, pandas, NumPy
+- Rust, Solana CLI, Anchor
+- Git, GitHub, Jupyter, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Pinned Projects
+🔹 Titanic ML Classifier  
+🔹 Digit Recognition using Neural Networks  
+🔹 [Coming Soon] Rust smart contract on Solana
