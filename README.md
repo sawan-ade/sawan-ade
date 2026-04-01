@@ -9,8 +9,3 @@
 - Python, scikit-learn, pandas, NumPy
 - Rust, Solana CLI, Anchor
 - Git, GitHub, Jupyter, VS Code
-
-### 📌 Pinned Projects
-🔹 Titanic ML Classifier  
-🔹 Digit Recognition using Neural Networks  
-🔹 [Coming Soon] Rust smart contract on Solana
